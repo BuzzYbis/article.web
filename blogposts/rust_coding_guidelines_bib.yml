@@ -1,0 +1,9 @@
+BCECPP: 
+  type: web
+  title: "C++ Coding Standards"
+  author: BDE
+  publisher: 
+    name: Bloomberg LP
+    location: New York, USA
+  date: 2024-12-16
+  url: https://bloomberg.github.io/bde/knowledge_base/coding_standards.html
