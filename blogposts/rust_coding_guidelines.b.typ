@@ -33,6 +33,8 @@
 #show: blogpost.with(
   title: [Rust coding standards],
   subtitle: [Ideas to write better rust code],
+  description: [Coding guidelines for devolpment in Rust.],
+  tag: ("draft"),
   authors: (
     (name: "BuzzY_", link: "https://github.com/BuzzYbis/article.web"),
   ),
