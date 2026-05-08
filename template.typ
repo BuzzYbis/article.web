@@ -1,10 +1,13 @@
 #let blogpost(
   title: none,
   subtitle: none,
+  description: none,
+  tag: none,
   authors: (),
   body,
 ) = {
   let date = datetime.today().display()
+  set document(title: title, author: authors.map(author => author.name), description: [#description], date: datetime.today(), keywords: tag)
 
   set page(
     width: 210mm,
@@ -121,4 +124,3 @@
     }
   },
 )
-
