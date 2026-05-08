@@ -1,0 +1,23 @@
+td-wiki:
+  type: Web
+  title: "Technical debt"
+  author: Wikipedia
+  date: 2026-05-02
+  url: "https://en.wikipedia.org/wiki/Technical_debt"
+
+invention-td: 
+  type: Article 
+  title: "Laws of Software Evolution Revisited"
+  author: "Meir 'Manny' Lehman"
+  publisher: 
+    name: Springer-Verlag
+    location: Berlin, Germany
+  parent: 
+    type: Proceedings
+    title: "5th European Workshop on Software Process Technology"
+    isbn: "354061771X"
+  page-range: 108-124
+  doi: 10.5555/646195.681473    
+  url: https://gwern.net/doc/cs/1996-lehman.pdf
+
+
